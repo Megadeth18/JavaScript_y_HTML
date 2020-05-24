@@ -1,0 +1,31 @@
+.bn{
+    color: white;
+    background-color:teal;
+}
+.textarea2{
+    height: 11em;
+    width: 400px;
+}
+.textarea{
+    height: 7em;
+    width: 400px;
+}
+.med{
+    height: 5em;
+    width: 380px;
+}
+.chi{
+    height: 4em;
+    width: 370px;
+}
+.color-coral{
+    background-color: burlywood;
+}
+.color-khaki{
+    background-color: ivory;
+}
+.color-cafe{
+    background: mistyrose;
+}
+
+
